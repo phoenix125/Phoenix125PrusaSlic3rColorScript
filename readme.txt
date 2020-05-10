@@ -53,7 +53,7 @@ Adjust the extruder ratios (color blending) by adjusting the M567 P0 E[0]:[1]:[2
  Links
 -------
                      Download PrusaSlic3r:  https://www.prusa3d.com/drivers/
-Download Phoenix125PrusaSlic3rColorScript:  http://wwwphoenix125.com/share/PrusaSlic3r/Phoenix125PrusaSlic3rColorScript.zip
+Download Phoenix125PrusaSlic3rColorScript:  http://www.phoenix125.com/share/PrusaSlic3r/Phoenix125PrusaSlic3rColorScript.zip
                        GitHub Source Code:  https://github.com/phoenix125/Phoenix125PrusaSlic3rColorScript
                         Developer website:  http://www.Phoenix125.com
 
