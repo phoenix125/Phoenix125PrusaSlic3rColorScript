@@ -1,7 +1,7 @@
 Phoenix125PrusaSlic3rColorScript - Comments out T Codes from G-code files.  Used for post-processing of G-codes for M3D Crane Quad.
 - Latest version: Phoenix125PrusaSlic3rColorScript_v1.0 (2020-05-10)
 - By Phoenix125 | http://www.Phoenix125.com | http://discord.gg/EU7pzPs | kim@kim125.com
-- Thanks to NJallday for sharing his M3D Crane Quad PrusaSlic3r profile.  About 90% of the included config was based on his settings. 
+- Thanks to NJallday for sharing his M3D Crane Quad PrusaSlic3r profile.  About 90% of the included config was based on his settings with extruder-changing code added.
 
 Sections: (Use Search CTRL-F to quickly access) 
 
